@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<ul>
+<li><div>
 <a href="https://www.linkedin.com/in/vinod-kumar-maurya-he-him-28477813/"  rel="nofollow">Linkedin Profile </a>
-</div>
+</div></li>
 
 
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto: vinod.maurya1@gmail.com"></a><a href="mailto:vinod.maurya1@gmail.com">vinod.maurya1@gmail.com</a></li>
+</ul>
 
 <h3 dir="auto"><i>A passionate full-stack web developer from India</i></h3>
 
