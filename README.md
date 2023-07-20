@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/vinod-kumar-maurya-he-him-28477813/"  rel="nofollow">Linkedin Profile </a>
 </div>
 
+
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto: vinod.maurya1@gmail.com"></a><a href="mailto:vinod.maurya1@gmail.com">vinod.maurya1@gmail.com</a></li>
+
 <h3 dir="auto"><i>A passionate full-stack web developer from India</i></h3>
 
 Have exposure♛ to building professional websites🖥 and backEnd  front-end applications 💻. Experienced with a demonstrated history of working in the information technology and services industries Skilled in BackEnd and FrontEnd Technologies✍️ as PHP7 PHP8, Mysql Framework like laravel, Cakephp, Codeigniter, symfony Zend ,NodeJS sql server Mangodb , ajax jquery , React.js, Redux,Rabbit MQ EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub,SVN AWS, GCP  for web and window-based applications.
