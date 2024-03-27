@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <ul>
 <li><div>
-<a href="https://www.linkedin.com/in/vinod-kumar-maurya-he-him-28477813/"  rel="nofollow">Linkedin Profile </a>
+<a href="https://www.linkedin.com/in/vinod-kumar-maurya-28477813/"  rel="nofollow">Linkedin Profile </a>
 </div></li>
 
 
