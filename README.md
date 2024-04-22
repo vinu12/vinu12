@@ -35,12 +35,13 @@ Skills- Strong proficiency in Backend technology and In-depth understanding like
 
 Skills: PHP7, PHP8,Node.js, axios.js,alphine.js, Corjavascipt, Drupal, Nest.js Express.js Laravel8,10, zend cakephp3 codeignitor4, Magento prstashop, wordpress, ajax jquery AWS ,GC, Jest, Webpack · REST APIs · Cascading Style Sheets (CSS) · redux · React.js · JavaScript · HTML · GitHub, Rabbit MQ,
 
-
-LinkedIn - https://www.linkedin.com/in/vinod-kumar-maurya-28477813/
-GitHub -  https://github.com/vinu12
-YouTube - https://www.youtube.com/@dreamcodingoffical/videos
-Leetcode - https://leetcode.com/vinodmaurya82/
+<ul>
+<li>LinkedIn - https://www.linkedin.com/in/vinod-kumar-maurya-28477813/</li>
+<li>GitHub -  https://github.com/vinu12</li>
+<li>YouTube - https://www.youtube.com/@dreamcodingoffical/videos</li>
+<li>Leetcode - https://leetcode.com/vinodmaurya82/</li>
 Portfolio - For portfolio connect with me.
+</ul>
 
 
 
